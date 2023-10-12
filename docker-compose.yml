@@ -1,6 +1,6 @@
 version: '3'
 services:
-          web:
-                      build: .
-                          ports:
-                                        - "81:81"
+  web:
+  build: .
+ ports:
+     - "81:81"
